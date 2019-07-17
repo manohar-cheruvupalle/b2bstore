@@ -15,7 +15,7 @@ public class MyTestEvent
 	 */
 	public static void main(final String[] args)
 	{
-		System.out.println("this is test event class");
+		System.out.println("this is test event class...");
 	}
 
 }
